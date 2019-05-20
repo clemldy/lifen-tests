@@ -9,5 +9,3 @@ Nous souhaitons connaître à la fin du mois notre CA journalier en suivant la l
 - +0,60 € si l'auteur (le `Practitioner`) a le mode "express delivery" activé (valeur par défaut : `false`)
 
 La consigne principale pour ce niveau est donc d'écrire l'application qui va générer `output.json` (on s'intéresse aux résultats plus qu'à la forme du document) à partir de `data.json`.
-
-Une fois ce challenge terminé -> [niveau suivant](https://github.com/honestica/ruby-jobs/tree/master/level2)
